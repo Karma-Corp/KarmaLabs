@@ -38,6 +38,7 @@
     background-color: rgb(255 255 255 / 95%);
     padding: 27px;
     margin-bottom: 55px;
+    border-radius: 0 4px 4px 0;
 }
 
 .olho-container {
